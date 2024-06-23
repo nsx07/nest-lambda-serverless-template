@@ -1,5 +1,5 @@
 org: nsx07
-service: leads-api
+service: template
 
 plugins:
   - serverless-offline
